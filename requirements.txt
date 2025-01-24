@@ -5,3 +5,4 @@ pandas
 Pillow
 sweetviz
 scikit-learn
+seaborn
